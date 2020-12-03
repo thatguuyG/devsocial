@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://glenn:giniwasekao@devconnector.yxaxy.mongodb.net/DevSocial?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://glenn:giniwasekao@devconnector.yxaxy.mongodb.net/DevSocial?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
